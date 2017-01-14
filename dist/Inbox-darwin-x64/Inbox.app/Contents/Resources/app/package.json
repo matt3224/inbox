@@ -1,0 +1,16 @@
+{
+  "name": "Inbox",
+  "version": "1.0.0",
+  "description": "A powerful email client",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "package": "electron-packager ./ Inbox --version 1.0.0 --overwrite --icon=./images/app-icon.icns"
+  },
+  "author": "Matt Pilott",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.4.13",
+    "electron-packager": "^8.4.0"
+  }
+}
