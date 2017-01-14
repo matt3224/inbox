@@ -1,4 +1,5 @@
-const fs = require('fs')
+const fs = require('fs');
+const {shell} = require('electron');
 
 let css;
 
@@ -73,7 +74,7 @@ onload = () => {
     };
 
     const handleRedirect = (e) => {
-
+        console.log('hello');
         if ( e.url.includes('?authuser=') ) {
 
             e.preventDefault();

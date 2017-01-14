@@ -2,9 +2,9 @@
 	#SETUP WINDOW
 \*----------------------------------------------*/
 
-const {app, Menu, BrowserWindow, shell} = require('electron')
+const {app, Menu, BrowserWindow} = require('electron');
 
-let win
+let win;
 
 function createWindow() {
     
@@ -16,16 +16,16 @@ function createWindow() {
         title : 'Inbox',
         transparent : true,
         vibrancy : 'light'
-    })
+    });
 
-    win.loadURL(`file://${__dirname}/index.html`)
+    win.loadURL(`file://${__dirname}/index.html`);
     
-    //win.openDevTools();
+    win.openDevTools();
     
-    win.on('closed', function () {
+    win.on('closed', function() {
         
         win = null
-    })
+    });
     
     /*  COPY & PASTE  */
 
@@ -47,29 +47,29 @@ function createWindow() {
             { label: "Paste", accelerator: "CmdOrCtrl+V", selector: "paste:" },
             { label: "Select All", accelerator: "CmdOrCtrl+A", selector: "selectAll:" }
         ]
-    }]
+    }];
     
-    Menu.setApplicationMenu(Menu.buildFromTemplate(template))
+    Menu.setApplicationMenu(Menu.buildFromTemplate(template));
     
     /*  END  */
 }
 
-app.on('ready', createWindow)
+app.on('ready', createWindow);
 
-app.on('window-all-closed', function () {
+app.on('window-all-closed', function() {
     
     if (process.platform !== 'darwin') {
         
-        app.quit()
+        app.quit();
     }
-})
+});
 
-app.on('activate', function () {
+app.on('activate', function() {
     
     if (win === null) {
         
-        createWindow()
+        createWindow();
     }
-})
+});
 
 
