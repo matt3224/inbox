@@ -86,7 +86,7 @@
 		</data>
 		<key>Resources/app/package.json</key>
 		<data>
-		h9t1tlhx/6WV+ByPbdyAWUp2KAE=
+		SZEymjNBCCQ9RmmbFVu+bBS/uHg=
 		</data>
 		<key>Resources/app/scripts/.DS_Store</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>Resources/app/styles/inbox.css</key>
 		<data>
-		cufhVRTzoNEt3GOl6rQk8IBUwmE=
+		fkaDfG0mhEcNQyZaKflIm1afJJo=
 		</data>
 		<key>Resources/app/styles/style.css</key>
 		<data>
@@ -139,7 +139,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			GH9nXktovHAGG2R6vHQEhQO1xWU=
+			rEH/bCT1nk79O6Ge/86HNyW8Xes=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.electron.framework" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = DXS6TBA9N4</string>
@@ -193,7 +193,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			4Ay++o0SDLd/NR0gm3AUPgYl2T8=
+			Yuf8TAYfwjkRoQrKp4O3LxKCi3U=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.Squirrel" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = DXS6TBA9N4</string>
@@ -312,11 +312,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			h9t1tlhx/6WV+ByPbdyAWUp2KAE=
+			SZEymjNBCCQ9RmmbFVu+bBS/uHg=
 			</data>
 			<key>hash2</key>
 			<data>
-			YtlVOVCXQFwrpY9ZapT7Npacu0gL3qdtoFqKg8SUYGA=
+			/Q7+Ubd8x+awZRlzKJRax6NGsyq0tZlrqEzvHq7iFAM=
 			</data>
 		</dict>
 		<key>Resources/app/scripts/preload.js</key>
@@ -367,11 +367,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cufhVRTzoNEt3GOl6rQk8IBUwmE=
+			fkaDfG0mhEcNQyZaKflIm1afJJo=
 			</data>
 			<key>hash2</key>
 			<data>
-			uUokqftdXWUPMstW1MPY5JWQvEn7/XwqrYY71zKeKjg=
+			We7KJKHtRSoU1bPh+QzvkfyEYSE5i+9E39fcP9OJU8A=
 			</data>
 		</dict>
 		<key>Resources/app/styles/style.css</key>

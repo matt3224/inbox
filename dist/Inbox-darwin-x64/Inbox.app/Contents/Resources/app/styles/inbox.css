@@ -146,3 +146,25 @@ span.aO.AK.ew::before {
 .be.k {
     width: 35rem;
 }
+
+.M:not(.m) .jn.jn {
+    height: 94px;
+}
+
+@media (max-width: 920px) {
+
+    .fv {
+        background-color: white !important;
+    }
+
+    .M .bz {
+        margin-left: 60px !important;
+        margin-right: 60px !important;
+    }
+
+    .bz {
+        margin-left: 60px !important;
+        margin-right: 60px !important;
+    }
+
+}
