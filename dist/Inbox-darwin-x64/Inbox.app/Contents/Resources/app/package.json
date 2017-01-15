@@ -1,13 +1,13 @@
 {
   "name": "Inbox",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A powerful email client",
   "author": "Matt Pilott",
   "license": "MIT",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
-    "package": "electron-packager ./ Inbox --overwrite --icon=./images/app-icon.icns --out=./dist --platform=darwin --arch=x64 --app-bundle-id=com.matt-pilott.inbox --app-version=1.0.2 --build-version=1.0.201 --osx-sign"
+    "package": "electron-packager ./ Inbox --overwrite --icon=./images/app-icon.icns --out=./dist --platform=darwin --arch=x64 --app-bundle-id=com.matt-pilott.inbox --app-version=1.0.3 --build-version=1.0.310 --osx-sign"
   },
   "devDependencies": {
     "electron": "^1.4.14",

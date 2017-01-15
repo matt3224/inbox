@@ -19,7 +19,7 @@ onload = () => {
         
         webview.insertCSS(css)
         
-        //webview.openDevTools()
+        webview.openDevTools()
     });
     
     const wait = (function(){
@@ -75,14 +75,14 @@ onload = () => {
 
     const handleRedirect = (e) => {
         
-        if ( e.url.includes('?authuser=') ) {
+        if ( e.url.includes('?authuser=') || e.url.includes('accounts.google.com') ) {
 
             e.preventDefault();
             
             webview.loadURL(e.url);
         }
         
-        else if( ! e.url.includes(webview.getURL()) || e.url.includes('accounts.google.com') ) {
+        else if( ! e.url.includes(webview.getURL()) ) {
 
             e.preventDefault();
 

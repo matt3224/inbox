@@ -139,6 +139,14 @@ span.aO.AK.ew::before {
     display: none;
 }
 
+.gb_Cb:focus::before {
+    border-radius: 2px !important;
+    left: 0 !important;
+    top: 0 !important;
+    right: 0 !important;
+    bottom: 0 !important;
+}
+
 .az {
     background-color: transparent !important;
 }

@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/app/.config.codekit3</key>
 		<data>
-		/WXzUzbse9I0nIjQ0gkb0fLaBv4=
+		bZx86XoSP+7tegqtKv3CMNzUB6k=
 		</data>
 		<key>Resources/app/.gitignore</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Resources/app/package.json</key>
 		<data>
-		SZEymjNBCCQ9RmmbFVu+bBS/uHg=
+		0VGe9ofefuTq2wCr10+Fv/r/JHI=
 		</data>
 		<key>Resources/app/scripts/.DS_Store</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>Resources/app/scripts/render.js</key>
 		<data>
-		0q9qM9mMGHANFZtb4A7Wfn6Uklw=
+		CboKiwJTf9Mg+lLIsZCCq2YbUfk=
 		</data>
 		<key>Resources/app/styles/.DS_Store</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>Resources/app/styles/inbox.css</key>
 		<data>
-		fkaDfG0mhEcNQyZaKflIm1afJJo=
+		t33XhR9CW71CW8NQFCvYz2RJkuY=
 		</data>
 		<key>Resources/app/styles/style.css</key>
 		<data>
@@ -139,7 +139,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			rEH/bCT1nk79O6Ge/86HNyW8Xes=
+			63gnBVEXCHqQxDaRJrgxypXbyBI=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.electron.framework" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = DXS6TBA9N4</string>
@@ -193,7 +193,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			Yuf8TAYfwjkRoQrKp4O3LxKCi3U=
+			fmfHjt6fj4z6xdWXsdREtZ/w/lE=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.Squirrel" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = DXS6TBA9N4</string>
@@ -202,11 +202,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/WXzUzbse9I0nIjQ0gkb0fLaBv4=
+			bZx86XoSP+7tegqtKv3CMNzUB6k=
 			</data>
 			<key>hash2</key>
 			<data>
-			WkwM0HgEz82+GsYU3mnyoZb/YLUqN3XBBrRenTUCMjs=
+			iZZ5m7LrQXDbCoCA2ry1Oz357MqtuCcn3wI1mO5kdOo=
 			</data>
 		</dict>
 		<key>Resources/app/.gitignore</key>
@@ -312,11 +312,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SZEymjNBCCQ9RmmbFVu+bBS/uHg=
+			0VGe9ofefuTq2wCr10+Fv/r/JHI=
 			</data>
 			<key>hash2</key>
 			<data>
-			/Q7+Ubd8x+awZRlzKJRax6NGsyq0tZlrqEzvHq7iFAM=
+			NBQyQpXovJypnU9kSUdtqkqJLyg7tyRbn8YXy/CKEEo=
 			</data>
 		</dict>
 		<key>Resources/app/scripts/preload.js</key>
@@ -334,11 +334,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0q9qM9mMGHANFZtb4A7Wfn6Uklw=
+			CboKiwJTf9Mg+lLIsZCCq2YbUfk=
 			</data>
 			<key>hash2</key>
 			<data>
-			wuRDcfipIdTyANa7lfBrzhLN+rwriueOE8K4wgn3svc=
+			WYo+Z8ucigJFKDGbTB9+H40/LCeNgAvFtd9Loo0/hTo=
 			</data>
 		</dict>
 		<key>Resources/app/styles/_electron.scss</key>
@@ -367,11 +367,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fkaDfG0mhEcNQyZaKflIm1afJJo=
+			t33XhR9CW71CW8NQFCvYz2RJkuY=
 			</data>
 			<key>hash2</key>
 			<data>
-			We7KJKHtRSoU1bPh+QzvkfyEYSE5i+9E39fcP9OJU8A=
+			rq/nFPgxsE+8kpj3GD5wo88YaWXDBtZgxnOPhUHUIeA=
 			</data>
 		</dict>
 		<key>Resources/app/styles/style.css</key>
