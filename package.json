@@ -2,13 +2,13 @@
   "name": "Inbox",
   "version": "1.0.0",
   "description": "A powerful email client",
+  "author": "Matt Pilott",
+  "license": "MIT",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
     "package": "electron-packager ./ Inbox --overwrite --icon=./images/app-icon.icns --out=./dist"
   },
-  "author": "Matt Pilott",
-  "license": "MIT",
   "devDependencies": {
     "electron": "^1.4.14",
     "electron-packager": "^8.5.0"
