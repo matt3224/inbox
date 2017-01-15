@@ -14,6 +14,17 @@ body,
     min-width: 15rem;
     padding: 0 0.25rem;
     top: 38px  !important;
+    transform: translateX(-252px) !important;
+    -webkit-transform: translateX(-252px) !important;
+}
+
+.fv.tTwEpb {
+    -webkit-transform: translateX(0) !important;
+    transform: translateX(0) !important;
+}
+
+.ac-P .bH.s2 {
+    top: 38px  !important;
 }
 
 .an {
@@ -30,6 +41,11 @@ body,
 
 .ew::before {
     margin: 0 auto !important;
+}
+
+span.aO.AK.ew::before {
+    left: 3.625rem !important;
+    top: 0.25rem !important;
 }
 
 .at::before {
@@ -73,7 +89,12 @@ body,
 }
 
 .at.bS {
+    background: none !important;
     margin: 0 6vw 0 12vw !important;
+
+    &::before {
+        display: none !important;
+    }
 }
 
 .hn.b4 {
@@ -112,4 +133,16 @@ body,
 
 .fb {
     top: 0 !important;
+}
+
+[jsaction="global.click_gmail_menu_item"] {
+    display: none;
+}
+
+.az {
+    background-color: transparent !important;
+}
+
+.be.k {
+    width: 35rem;
 }

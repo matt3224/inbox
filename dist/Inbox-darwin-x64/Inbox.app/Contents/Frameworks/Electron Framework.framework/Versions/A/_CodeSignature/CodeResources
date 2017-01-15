@@ -63,7 +63,7 @@
 		</data>
 		<key>Resources/crashpad_handler</key>
 		<data>
-		p92utdA+exQtV4Su9k6NggcumPA=
+		NkCKk+lL2kQIvaWmMGq9BXLUCGg=
 		</data>
 		<key>Resources/cs.lproj/locale.pak</key>
 		<dict>
@@ -516,22 +516,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			O6Le/eg6dD91pZmjezUQ+yIEIfE=
+			27i3yzkP1x63oeJ4g7STdHPUFiM=
 			</data>
 			<key>hash2</key>
 			<data>
-			UZepbhHHbD8GeX0sh7gElEuvEBZzWbLtIN37GElQESk=
+			lDpE32YWmKodoHH+82jCdSKfKFNd3ju70PaioKucsbQ=
 			</data>
 		</dict>
 		<key>Libraries/libnode.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KyehCS8hKNq0Krcjrn+Y4ZcwO9g=
+			j1W7vPGqxTxFYbe1VRMaCuhPsVo=
 			</data>
 			<key>hash2</key>
 			<data>
-			B2+RMYwUX7kUcR+sdB+U/glgE1fjo83uB985k5q6jr0=
+			huJP7zdGtBE0Ft7RyXLYyWaI1q+CECMSBRnByvT7tVM=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
@@ -636,11 +636,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			p92utdA+exQtV4Su9k6NggcumPA=
+			NkCKk+lL2kQIvaWmMGq9BXLUCGg=
 			</data>
 			<key>hash2</key>
 			<data>
-			T8SoSUhcZ0dDynlHpgkWLvdTXGhQLwKza1Tlkt2YxI0=
+			mfbOGqhPmDqzoMzLkAtp/WeVCURy4XgqUJsnuCdIUVA=
 			</data>
 		</dict>
 		<key>Resources/cs.lproj/locale.pak</key>

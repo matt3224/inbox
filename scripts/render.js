@@ -74,7 +74,7 @@ onload = () => {
     };
 
     const handleRedirect = (e) => {
-        console.log('hello');
+        
         if ( e.url.includes('?authuser=') ) {
 
             e.preventDefault();
@@ -82,7 +82,7 @@ onload = () => {
             webview.loadURL(e.url);
         }
         
-        else if( ! e.url.includes(webview.getURL()) ) {
+        else if( ! e.url.includes(webview.getURL()) || e.url.includes('accounts.google.com') ) {
 
             e.preventDefault();
 
