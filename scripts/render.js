@@ -19,7 +19,7 @@ onload = () => {
         
         webview.insertCSS(css)
         
-        webview.openDevTools()
+        //webview.openDevTools()
     });
     
     const wait = (function(){
