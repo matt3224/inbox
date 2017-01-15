@@ -5,7 +5,7 @@
     <key>BuildMachineOSBuild</key>
     <string>15E65</string>
     <key>CFBundleIdentifier</key>
-    <string>com.electron.inbox.helper</string>
+    <string>com.matt-pilott.inbox.helper</string>
     <key>CFBundleName</key>
     <string>Inbox</string>
     <key>CFBundlePackageType</key>

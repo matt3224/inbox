@@ -3,6 +3,7 @@
 \*----------------------------------------------*/
 
 const {app, Menu, BrowserWindow} = require('electron');
+const {appUpdater} = require('./autoupdater');
 
 let win;
 
@@ -50,6 +51,8 @@ function createWindow() {
     }];
     
     Menu.setApplicationMenu(Menu.buildFromTemplate(template));
+
+    appUpdater();
     
     /*  END  */
 }
