@@ -17,9 +17,9 @@ onload = () => {
     
     webview.addEventListener("dom-ready", function(){
         
-        webview.insertCSS(css)
+        webview.insertCSS(css);
         
-        //webview.openDevTools()
+        //webview.openDevTools();
     });
     
     const wait = (function(){
