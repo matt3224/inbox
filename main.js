@@ -15,7 +15,7 @@ function createWindow() {
     
     const initPath = path.join(app.getPath('userData'), 'init.json');
     
-    let data;
+    let data = {};
     
     try {
         
