@@ -20,7 +20,6 @@ function createWindow() {
     try {
         
         data = JSON.parse(fs.readFileSync(initPath, 'utf8'));
-        console.log(data.pos);
     }
     catch(e) {}
     
