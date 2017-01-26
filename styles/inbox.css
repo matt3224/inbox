@@ -24,7 +24,7 @@ body,
 }
 
 .ac-P .bH.s2 {
-    top: 38px  !important;
+    top: 38px !important;
 }
 
 .an {
@@ -50,11 +50,6 @@ span.aO.AK.ew::before {
 
 .at::before {
     height: 26px !important;
-}
-
-.hn,
-.hn::before {
-    height: 38px !important;
 }
 
 .cM.bz,
@@ -110,12 +105,12 @@ span.aO.AK.ew::before {
     max-height: 2.25rem !important;
 }
 
-.gb_jc.gb_R {
+.gb_R {
     justify-content: flex-end;
     min-width: 0 !important;
 }
 
-.gb_ib.gb_R {
+.gb_jb {
     padding-left: 0 !important;
     padding-right: 1rem !important;
 }
@@ -159,13 +154,21 @@ span.aO.AK.ew::before {
     height: 94px;
 }
 
-.gb_ib.gb_R,
-.gb_Ee {
-    height: 40px !important;
+.hn,
+.hn::before,
+.gb_Ib,
+.gb_Ie,
+.f1,
+.gb_Ie>.gb_R {
+    height: 38px !important;
 }
 
 #lQGP9e {
     margin-top: 7px!important;
+}
+
+.f1 {
+    top: 0 !important;
 }
 
 @media (max-width: 920px) {
@@ -185,3 +188,11 @@ span.aO.AK.ew::before {
     }
 
 }
+
+#FfJ3bf {
+    box-shadow: 0px 0px 0px 4rem rgba(0,0,0,0.85) !important;
+    left: 4rem !important;
+    width: calc(100% - 3rem) !important;
+}
+
+

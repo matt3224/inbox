@@ -1,7 +1,10 @@
+const {shell, ipcRenderer, remote} = require('electron');
 const fs = require('fs');
-const {shell} = require('electron');
+
+const {Menu, app} = remote;
 
 let css;
+
 
 fs.readFile(__dirname + '/styles/inbox.css', "utf-8", function(error, data) {
     
@@ -11,15 +14,29 @@ fs.readFile(__dirname + '/styles/inbox.css', "utf-8", function(error, data) {
     }
 });
 
+
 onload = () => {
     
     const webview = document.getElementById('webview');
     
+    const context = Menu.buildFromTemplate([
+        { role: 'undo' },
+        { role: 'redo' },
+        { type: 'separator' },
+        { role: 'cut' },
+        { role: 'copy' },
+        { role: 'paste' },
+        { role: 'pasteandmatchstyle' },
+        { role: 'delete' },
+        { role: 'selectall' },
+        { type: 'separator' },
+        { label: 'Reload', click() { webview.reload() } },
+        { label: 'Back', click() { webview.goBack() } }
+    ]);
+    
     webview.addEventListener("dom-ready", function(){
         
         webview.insertCSS(css);
-        
-        //webview.openDevTools();
     });
     
     const wait = (function(){
@@ -127,5 +144,18 @@ onload = () => {
     webview.addEventListener('keyup', switcher);
 
     document.querySelector('.js-button').addEventListener('click', button);
+    
+    ipcRenderer.on( 'openDevTools', () => {
+        
+        document.querySelector( 'webview' ).openDevTools();
+    });
+    
+    webview.addEventListener('contextmenu', (e) => {
+        
+        e.preventDefault();
+        
+        context.popup(remote.getCurrentWindow());
+        
+    }, false);
 
 };

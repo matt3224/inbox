@@ -15,12 +15,11 @@ function createWindow() {
     
     const initPath = path.join(app.getPath('userData'), 'init.json');
     
-    let data;
+    let data = {};
     
     try {
         
         data = JSON.parse(fs.readFileSync(initPath, 'utf8'));
-        console.log(data.pos);
     }
     catch(e) {}
     
@@ -57,31 +56,88 @@ function createWindow() {
         win = null;
     });
     
-    /*  COPY & PASTE  */
+    /*  Menus  */
 
-    let template = [{
-        label: 'Application',
-        submenu: [
-            { label: 'About Application', selector: 'orderFrontStandardAboutPanel:' },
-            { type: 'separator' },
-            { label: 'Quit', accelerator: 'Command+Q', click: function() { app.quit(); }}
-        ]
-    }, {
-        label: 'Edit',
-        submenu: [
-            { label: 'Undo', accelerator: 'CmdOrCtrl+Z', selector: 'undo:' },
-            { label: 'Redo', accelerator: 'Shift+CmdOrCtrl+Z', selector: 'redo:' },
-            { type: 'separator' },
-            { label: 'Cut', accelerator: 'CmdOrCtrl+X', selector: 'cut:' },
-            { label: 'Copy', accelerator: 'CmdOrCtrl+C', selector: 'copy:' },
-            { label: 'Paste', accelerator: 'CmdOrCtrl+V', selector: 'paste:' },
-            { label: 'Select All', accelerator: 'CmdOrCtrl+A', selector: 'selectAll:' }
-        ]
-    }];
+    const template = [
+        {
+            label: app.getName(),
+            submenu: [
+                { role: 'about' },
+                {
+                    label: 'Check for Updates...',
+                    click: function() {
+                        appUpdater();
+                    }
+                },
+                { type: 'separator' },
+                { role: 'hide' },
+                { role: 'hideothers' },
+                { role: 'unhide' },
+                { type: 'separator' },
+                { role: 'quit' }
+            ]
+        },
+        {
+            label: 'Edit',
+            submenu: [
+                { role: 'undo' },
+                { role: 'redo' },
+                { type: 'separator' },
+                { role: 'cut' },
+                { role: 'copy' },
+                { role: 'paste' },
+                { role: 'pasteandmatchstyle' },
+                { role: 'delete' },
+                { role: 'selectall' }
+            ]
+        },
+        {
+            label: 'View',
+            submenu: [
+                { role: 'reload' },
+                {
+                    label: 'Toggle Developer Tools',
+                    accelerator: 'CmdOrCtrl+I',
+                    click: function( item, focusedWindow ) {
+                        focusedWindow && focusedWindow.webContents.send( 'openDevTools' );
+                    }
+                },
+                { type: 'separator' },
+                { role: 'resetzoom' },
+                { role: 'zoomin' },
+                { role: 'zoomout' },
+                { type: 'separator' },
+                { role: 'togglefullscreen' }
+            ]
+        },
+        {
+            role: 'window',
+            submenu: [
+                { label: 'Close', accelerator: 'CmdOrCtrl+W', role: 'close' },
+                { label: 'Minimize', accelerator: 'CmdOrCtrl+M', role: 'minimize' },
+                { label: 'Zoom', role: 'zoom' },
+                { type: 'separator' },
+                { label: 'Bring All to Front', role: 'front' }
+            ]
+        },
+        {
+            role: 'help',
+            submenu: [
+                {
+                    label: 'GitHub Repository', click () {
+                        require('electron').shell.openExternal('https://github.com/matt3224/inbox');
+                    }
+                }
+            ]
+        }
+    ];
     
     Menu.setApplicationMenu(Menu.buildFromTemplate(template));
-
-    appUpdater();
+    
+    try {
+        appUpdater();
+    }
+    catch(e) {}
     
     /*  END  */
 }
