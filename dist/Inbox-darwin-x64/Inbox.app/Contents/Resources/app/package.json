@@ -7,7 +7,7 @@
   "main": "app",
   "scripts": {
     "start": "electron .",
-    "package": "electron-packager ./ Inbox --overwrite --icon=./images/app-icon.icns --out=./dist --platform=darwin --arch=x64 --app-bundle-id=com.matt-pilott.inbox --osx-sign"
+    "package": "electron-packager ./ Inbox --overwrite --icon=./web/images/app-icon.icns --out=./dist --platform=darwin --arch=x64 --app-bundle-id=com.matt-pilott.inbox --osx-sign"
   },
   "devDependencies": {
     "electron": "^1.4.15",
