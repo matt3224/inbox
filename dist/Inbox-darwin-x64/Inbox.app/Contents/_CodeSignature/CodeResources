@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/app/.config.codekit3</key>
 		<data>
-		lFyDt4YP2LO6xYjOgJgEIW4kw8I=
+		6zfaI4nKaxbW8RXAHliWEhn3ugk=
 		</data>
 		<key>Resources/app/.gitignore</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Resources/app/package.json</key>
 		<data>
-		1fLPySR3wFsb70U8nufdOtysJ8U=
+		7VDnQHbcIFT19Od0/WPB/IphAVE=
 		</data>
 		<key>Resources/app/web/images/.DS_Store</key>
 		<data>
@@ -167,7 +167,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			hc1SmL5QRoxkibfd0kktoAL9fMw=
+			Rx+9qbMvRMliL69ik+v1CQwYCMw=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.electron.framework" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = DXS6TBA9N4</string>
@@ -221,7 +221,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			in1zZ8zf01D9ZRrF2RdduWR+G6U=
+			CNdWmc/X/adnmQcQfwLbyjZobg0=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.Squirrel" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = DXS6TBA9N4</string>
@@ -230,11 +230,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lFyDt4YP2LO6xYjOgJgEIW4kw8I=
+			6zfaI4nKaxbW8RXAHliWEhn3ugk=
 			</data>
 			<key>hash2</key>
 			<data>
-			i9vv+YZJj2sDLqlJqK/tosKeLpBW1bIGYqecN73hI1E=
+			W7usGHPrFUibxcWb9i1AwU/8/g9O5uJlgG/te+mwiDE=
 			</data>
 		</dict>
 		<key>Resources/app/.gitignore</key>
@@ -340,11 +340,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1fLPySR3wFsb70U8nufdOtysJ8U=
+			7VDnQHbcIFT19Od0/WPB/IphAVE=
 			</data>
 			<key>hash2</key>
 			<data>
-			uK87hRBcy1nNrtttGczUUGaZFZwID2o42HPZlFCOlEg=
+			QMmZ3CBq1e33Xg6TYOKgB8sgh3hVhfMOa1BRoO0bQTk=
 			</data>
 		</dict>
 		<key>Resources/app/web/images/app-icon.icns</key>
