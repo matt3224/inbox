@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+<html class="no-js" lang="en">
+
+    <head>
+        
+        <!-- -----------------------------------------------
+        //	Document: Setup
+        ------------------------------------------------ -->
+    
+        <meta charset="utf-8">
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <title>Inbox</title>
+        
+        <!-- -----------------------------------------------
+        //	Document: Priority Resources
+        ------------------------------------------------ -->
+        
+        <link rel="stylesheet" href="./styles/style.css">
+    
+    </head>
+
+    <body>
+        
+        <!-- -----------------------------------------------
+        //	Site: Webview
+        ------------------------------------------------ -->
+        
+        <webview id="webview" class="webview" preload="./scripts/preload.js" src="https://inbox.google.com" plugins allowpopups></webview>
+        
+        <div class="drag"></div>
+        
+        <div class="intro  intro--hide">
+            
+            <img class="intro__icon" srcset="images/icon.png 1x, images/icon@2x.png 2x">
+            
+            <img class="intro__name" srcset="images/name.png 1x, images/name@2x.png 2x">
+            
+        </div>
+        
+        <div class="status">
+            
+            <span class="status__center">
+            
+                <h5 class="status__message"></h5>
+                
+                <button class="button  button--light  status__button  js-button"></button>
+            
+            </span>
+            
+        </div>
+        
+        <!-- -----------------------------------------------
+        //	Document: Subservient Resources
+        ------------------------------------------------ -->
+        
+        <script src="./scripts/render.js"></script>
+    
+    </body>
+
+</html>

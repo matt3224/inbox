@@ -1,0 +1,198 @@
+body,
+.lQ {
+    background: none !important;
+    -webkit-font-smoothing: antialiased;
+}
+
+.lQ {
+    width: 14rem !important;
+}
+
+.fv {
+    background: rgba(255, 255, 255, 0.8)  !important;
+    box-shadow: 1px 0 10px 0 rgba(0, 0, 0, 0.1);
+    min-width: 15rem;
+    padding: 0 0.25rem;
+    top: 38px  !important;
+    transform: translateX(-252px) !important;
+    -webkit-transform: translateX(-252px) !important;
+}
+
+.fv.tTwEpb {
+    -webkit-transform: translateX(0) !important;
+    transform: translateX(0) !important;
+}
+
+.ac-P .bH.s2 {
+    top: 38px !important;
+}
+
+.an {
+    background: rgba(255, 255, 255, 0.8) !important;
+}
+
+.c7>.AK {
+    padding: 0.5rem 1.5rem 0.5rem 5.5rem !important;
+}
+
+.AK::before {
+    margin: auto 1.5rem auto 5.5rem !important;
+}
+
+.ew::before {
+    margin: 0 auto !important;
+}
+
+span.aO.AK.ew::before {
+    left: 3.625rem !important;
+    top: 0.25rem !important;
+}
+
+.at::before {
+    height: 26px !important;
+}
+
+.cM.bz,
+.ne {
+    padding-top: 38px !important;
+}
+
+.bS,
+.gc,
+.rj {
+    height: 26px !important;
+}
+
+.rj {
+    width: 3.25rem !important;
+}
+
+.bD {
+    top: 2px !important;
+}
+
+#lQGP9e {
+    margin: 8px 0 0 5px !important;
+}
+
+.gb_Ce>.gb_R {
+    height: 42px !important;
+}
+
+.te {
+    border-radius: 4px !important;
+}
+
+.at.bS {
+    background: none !important;
+    margin: 0 6vw 0 12vw !important;
+
+    &::before {
+        display: none !important;
+    }
+}
+
+.hn.b4 {
+    -webkit-app-region: drag;
+    -webkit-user-select: none;
+}
+
+#gbwa {
+    display: none;
+}
+
+.oin9Fc {
+    max-height: 2.25rem !important;
+}
+
+.gb_R {
+    justify-content: flex-end;
+    min-width: 0 !important;
+}
+
+.gb_jb {
+    padding-left: 0 !important;
+    padding-right: 1rem !important;
+}
+
+.k2 > #lQGP9e {
+    right: 6.5rem !important;
+}
+
+.bD,
+.fb {
+    height: 1.25rem !important;
+    width: 1.25rem !important;
+    padding-top: 0.0625rem !important;
+}
+
+.fb {
+    top: 0 !important;
+}
+
+[jsaction="global.click_gmail_menu_item"] {
+    display: none;
+}
+
+.gb_Cb:focus::before {
+    border-radius: 2px !important;
+    left: 0 !important;
+    top: 0 !important;
+    right: 0 !important;
+    bottom: 0 !important;
+}
+
+.az {
+    background-color: transparent !important;
+}
+
+.be.k {
+    width: 35rem;
+}
+
+.M:not(.m) .jn.jn {
+    height: 94px;
+}
+
+.hn,
+.hn::before,
+.gb_Ib,
+.gb_Ie,
+.f1,
+.gb_Ie>.gb_R {
+    height: 38px !important;
+}
+
+#lQGP9e {
+    margin-top: 7px!important;
+}
+
+.f1 {
+    top: 0 !important;
+}
+
+@media (max-width: 920px) {
+
+    .fv {
+        background-color: white !important;
+    }
+
+    .M .bz {
+        margin-left: 60px !important;
+        margin-right: 60px !important;
+    }
+
+    .bz {
+        margin-left: 60px !important;
+        margin-right: 60px !important;
+    }
+
+}
+
+#FfJ3bf {
+    box-shadow: 0px 0px 0px 4rem rgba(0,0,0,0.85) !important;
+    left: 4rem !important;
+    width: calc(100% - 3rem) !important;
+}
+
+

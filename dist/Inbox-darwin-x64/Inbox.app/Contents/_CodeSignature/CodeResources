@@ -6,11 +6,11 @@
 	<dict>
 		<key>Resources/app/.DS_Store</key>
 		<data>
-		/zjxAQSiANQEs5mi5zThS3l4Snw=
+		scHxf4bOA4kLbTKwmvqYfNuqOVY=
 		</data>
 		<key>Resources/app/.config.codekit3</key>
 		<data>
-		jmlLkS81Hlap9nHXcvtnQTqwq4Y=
+		lFyDt4YP2LO6xYjOgJgEIW4kw8I=
 		</data>
 		<key>Resources/app/.gitignore</key>
 		<data>
@@ -20,41 +20,21 @@
 		<data>
 		ouTA05hx6dfijBlZu64RfPaxiWM=
 		</data>
-		<key>Resources/app/autoupdater.js</key>
-		<data>
-		BY1dYI2L1paMJjr2/AFudReERt4=
-		</data>
-		<key>Resources/app/images/.DS_Store</key>
+		<key>Resources/app/app/.DS_Store</key>
 		<data>
 		3y++sUAKzaCQmjLBz2v0kvESHgc=
 		</data>
-		<key>Resources/app/images/app-icon.icns</key>
+		<key>Resources/app/app/autoupdater.js</key>
 		<data>
-		nXIKBJwzl47eae4NkvMHBfnUv0E=
+		7FIu9GbXZMHbCmtd6wFrmZPT5Rc=
 		</data>
-		<key>Resources/app/images/icon.png</key>
+		<key>Resources/app/app/index.js</key>
 		<data>
-		kHHS69LOIVQyO9+VCa0AxX8I9XQ=
+		kw+HT2NSzpHoPSfZ+Sy/WS/s/ys=
 		</data>
-		<key>Resources/app/images/icon@2x.png</key>
+		<key>Resources/app/app/menu.js</key>
 		<data>
-		bmevtFn6NSA1w4eMPBB2sIJ8iGg=
-		</data>
-		<key>Resources/app/images/name.png</key>
-		<data>
-		bjGE1fOVSI6Pewxd5++JmAeQo4g=
-		</data>
-		<key>Resources/app/images/name@2x.png</key>
-		<data>
-		heVXOCxcOpTyPP4hriyDZjIiLMg=
-		</data>
-		<key>Resources/app/index.html</key>
-		<data>
-		bs93amjNu9n0ztsAbyIyH1joIn4=
-		</data>
-		<key>Resources/app/main.js</key>
-		<data>
-		+PQ/f0OO+f1qbs3zQXSi3hu8+5o=
+		jDpEykae/RHXrUzoBRXmgKNmKqw=
 		</data>
 		<key>Resources/app/node_modules/.DS_Store</key>
 		<data>
@@ -67,6 +47,22 @@
 		<key>Resources/app/node_modules/dashdash/node_modules/.DS_Store</key>
 		<data>
 		4tlqdgtwySXW7tQExa20+lERg5Y=
+		</data>
+		<key>Resources/app/node_modules/electron-is-dev/index.js</key>
+		<data>
+		CpxyLErWza1REY656YIxCmSPoVY=
+		</data>
+		<key>Resources/app/node_modules/electron-is-dev/license</key>
+		<data>
+		DJTxN/bgU224yyYiqdyEJTuRuQw=
+		</data>
+		<key>Resources/app/node_modules/electron-is-dev/package.json</key>
+		<data>
+		JYYI7nOpwhKISu28zCoV73m1MW8=
+		</data>
+		<key>Resources/app/node_modules/electron-is-dev/readme.md</key>
+		<data>
+		7ckXN4/CZslkCDuTjqkI8Qrzo38=
 		</data>
 		<key>Resources/app/node_modules/extract-zip/node_modules/.DS_Store</key>
 		<data>
@@ -90,41 +86,69 @@
 		</data>
 		<key>Resources/app/package.json</key>
 		<data>
-		C12MmtvDZSGdOkJruUfeYH4dcns=
+		1fLPySR3wFsb70U8nufdOtysJ8U=
 		</data>
-		<key>Resources/app/scripts/.DS_Store</key>
+		<key>Resources/app/web/images/.DS_Store</key>
 		<data>
 		3y++sUAKzaCQmjLBz2v0kvESHgc=
 		</data>
-		<key>Resources/app/scripts/preload.js</key>
+		<key>Resources/app/web/images/app-icon.icns</key>
 		<data>
-		hPqNAVCYwnb1dLR/Fmkaa9qVB/w=
+		nXIKBJwzl47eae4NkvMHBfnUv0E=
 		</data>
-		<key>Resources/app/scripts/render.js</key>
+		<key>Resources/app/web/images/icon.png</key>
 		<data>
-		tLfYguaYwsiMLytv/+Wv/qLmGcs=
+		kHHS69LOIVQyO9+VCa0AxX8I9XQ=
 		</data>
-		<key>Resources/app/styles/.DS_Store</key>
+		<key>Resources/app/web/images/icon@2x.png</key>
+		<data>
+		bmevtFn6NSA1w4eMPBB2sIJ8iGg=
+		</data>
+		<key>Resources/app/web/images/name.png</key>
+		<data>
+		bjGE1fOVSI6Pewxd5++JmAeQo4g=
+		</data>
+		<key>Resources/app/web/images/name@2x.png</key>
+		<data>
+		heVXOCxcOpTyPP4hriyDZjIiLMg=
+		</data>
+		<key>Resources/app/web/index.html</key>
+		<data>
+		HqoYOcAtwRULAt4BheLiZcZ9hoM=
+		</data>
+		<key>Resources/app/web/scripts/.DS_Store</key>
 		<data>
 		3y++sUAKzaCQmjLBz2v0kvESHgc=
 		</data>
-		<key>Resources/app/styles/_electron.scss</key>
+		<key>Resources/app/web/scripts/preload.js</key>
+		<data>
+		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		</data>
+		<key>Resources/app/web/scripts/render.js</key>
+		<data>
+		VRIIGkc9KSOitM8z0zMO4CWd2/c=
+		</data>
+		<key>Resources/app/web/styles/.DS_Store</key>
+		<data>
+		3y++sUAKzaCQmjLBz2v0kvESHgc=
+		</data>
+		<key>Resources/app/web/styles/_electron.scss</key>
 		<data>
 		i9bIdEPzLrVAVNTpukYqy3vg1og=
 		</data>
-		<key>Resources/app/styles/_normalize.scss</key>
+		<key>Resources/app/web/styles/_normalize.scss</key>
 		<data>
 		m5e1eUek0yDArqFlP6+6fI6D8kI=
 		</data>
-		<key>Resources/app/styles/inbox.css</key>
+		<key>Resources/app/web/styles/inbox.css</key>
 		<data>
 		cCkS6g5ta73YmjGqkzxsTSbGhFM=
 		</data>
-		<key>Resources/app/styles/style.css</key>
+		<key>Resources/app/web/styles/style.css</key>
 		<data>
 		wLIAuDVMul5fU6ZYqz55jnMqzLo=
 		</data>
-		<key>Resources/app/styles/style.scss</key>
+		<key>Resources/app/web/styles/style.scss</key>
 		<data>
 		Kyi3GSlagiZjkMboC9zrodOHkKY=
 		</data>
@@ -134,7 +158,7 @@
 		</data>
 		<key>Resources/electron.icns</key>
 		<data>
-		nXIKBJwzl47eae4NkvMHBfnUv0E=
+		utx8MXWPMS8tQlcn0gBaujkxZcg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -143,7 +167,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			JCBHkiAL3+TmdV8q7DDC4teSOQI=
+			hc1SmL5QRoxkibfd0kktoAL9fMw=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.electron.framework" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = DXS6TBA9N4</string>
@@ -197,7 +221,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			OsnLgQeTeldEgQHC2WD8JH0/mGs=
+			in1zZ8zf01D9ZRrF2RdduWR+G6U=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.Squirrel" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = DXS6TBA9N4</string>
@@ -206,11 +230,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jmlLkS81Hlap9nHXcvtnQTqwq4Y=
+			lFyDt4YP2LO6xYjOgJgEIW4kw8I=
 			</data>
 			<key>hash2</key>
 			<data>
-			nFDeFFJRvaWr2t5TamaUwPpeUxHie99JyiAVWwUZziQ=
+			i9vv+YZJj2sDLqlJqK/tosKeLpBW1bIGYqecN73hI1E=
 			</data>
 		</dict>
 		<key>Resources/app/.gitignore</key>
@@ -235,18 +259,95 @@
 			Bx3DDHUuNXv+zOSeByNqwyqHWODKLPPfaZAXa9lAKWU=
 			</data>
 		</dict>
-		<key>Resources/app/autoupdater.js</key>
+		<key>Resources/app/app/autoupdater.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BY1dYI2L1paMJjr2/AFudReERt4=
+			7FIu9GbXZMHbCmtd6wFrmZPT5Rc=
 			</data>
 			<key>hash2</key>
 			<data>
-			k0a1qBnC5DI5scUy5BFdOGr9OZwTtW2RBcNc1t82bOU=
+			vO5jL9K+DRBsXYIFOce4LdENeiuLJ6gmvmesep3Fkd0=
 			</data>
 		</dict>
-		<key>Resources/app/images/app-icon.icns</key>
+		<key>Resources/app/app/index.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kw+HT2NSzpHoPSfZ+Sy/WS/s/ys=
+			</data>
+			<key>hash2</key>
+			<data>
+			YlmdhTH3LCQUMbTm03Je4nDYXp4jr6WM4Z8MwfB3gKQ=
+			</data>
+		</dict>
+		<key>Resources/app/app/menu.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jDpEykae/RHXrUzoBRXmgKNmKqw=
+			</data>
+			<key>hash2</key>
+			<data>
+			zujy725hAvZa8v8/yrp08ukoRspRe3FMKAuPOi6E5jw=
+			</data>
+		</dict>
+		<key>Resources/app/node_modules/electron-is-dev/index.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CpxyLErWza1REY656YIxCmSPoVY=
+			</data>
+			<key>hash2</key>
+			<data>
+			aRGbKS6gpYetSxQ6y0GBSOU+KimAVlpV19iqjJhDEz8=
+			</data>
+		</dict>
+		<key>Resources/app/node_modules/electron-is-dev/license</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DJTxN/bgU224yyYiqdyEJTuRuQw=
+			</data>
+			<key>hash2</key>
+			<data>
+			b7l1RhHCD2ZJ9ogF6MmQ6DJh8pMW4p3p5s7a5ge4Y0w=
+			</data>
+		</dict>
+		<key>Resources/app/node_modules/electron-is-dev/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JYYI7nOpwhKISu28zCoV73m1MW8=
+			</data>
+			<key>hash2</key>
+			<data>
+			npMLNaIqblE96BP7SDWdtZjM29vXy2ZdZJKYtVmm34w=
+			</data>
+		</dict>
+		<key>Resources/app/node_modules/electron-is-dev/readme.md</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7ckXN4/CZslkCDuTjqkI8Qrzo38=
+			</data>
+			<key>hash2</key>
+			<data>
+			22wMSnxE5xTZFn9evziLxTL+96SUV3aQb63JkMEkbsk=
+			</data>
+		</dict>
+		<key>Resources/app/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1fLPySR3wFsb70U8nufdOtysJ8U=
+			</data>
+			<key>hash2</key>
+			<data>
+			uK87hRBcy1nNrtttGczUUGaZFZwID2o42HPZlFCOlEg=
+			</data>
+		</dict>
+		<key>Resources/app/web/images/app-icon.icns</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -257,7 +358,7 @@
 			sgxpQxV8rHj0GLA3RHXTEjvETVVRTCfWDp9K+FEg5kY=
 			</data>
 		</dict>
-		<key>Resources/app/images/icon.png</key>
+		<key>Resources/app/web/images/icon.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -268,7 +369,7 @@
 			MevLHQVFcO7qWCdMNpDqUrhzc+lrPkHZLTBnlt3ErFI=
 			</data>
 		</dict>
-		<key>Resources/app/images/icon@2x.png</key>
+		<key>Resources/app/web/images/icon@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -279,7 +380,7 @@
 			U75Z5OYk8eDMTz/Ui3QFJ/bqv+vSRv+RelgyM+Wn29w=
 			</data>
 		</dict>
-		<key>Resources/app/images/name.png</key>
+		<key>Resources/app/web/images/name.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -290,7 +391,7 @@
 			9drPFp3jwSnRBzRC9qEnaYVJqhUVIF7/Zc71uq9Hdbo=
 			</data>
 		</dict>
-		<key>Resources/app/images/name@2x.png</key>
+		<key>Resources/app/web/images/name@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -301,62 +402,40 @@
 			PdiFcBf8zGjtgnCaGyGlP77jULgpdZhGIhGjBe172LM=
 			</data>
 		</dict>
-		<key>Resources/app/index.html</key>
+		<key>Resources/app/web/index.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bs93amjNu9n0ztsAbyIyH1joIn4=
+			HqoYOcAtwRULAt4BheLiZcZ9hoM=
 			</data>
 			<key>hash2</key>
 			<data>
-			XvYl7SGgNVqctoxQvnIRSg9C5kuHnpr7o5htdtCFKNo=
+			nlQ5tZly/XliEjtmDqla5Pu27dFacM7kMcqZlFD8VhQ=
 			</data>
 		</dict>
-		<key>Resources/app/main.js</key>
+		<key>Resources/app/web/scripts/preload.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+PQ/f0OO+f1qbs3zQXSi3hu8+5o=
+			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
 			</data>
 			<key>hash2</key>
 			<data>
-			CDyx4d/hCArDYBT5h9namNyN7I8QDklRtxqwTanK5uw=
+			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
 			</data>
 		</dict>
-		<key>Resources/app/package.json</key>
+		<key>Resources/app/web/scripts/render.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			C12MmtvDZSGdOkJruUfeYH4dcns=
+			VRIIGkc9KSOitM8z0zMO4CWd2/c=
 			</data>
 			<key>hash2</key>
 			<data>
-			zFB1D9yqTIAxKJpvqGeK31B8LvR53qXSmdeUK/4XecA=
+			dIp/h4OejpNsVCY1dORdD4Hf66o9UM0SJ/Wq601+2GI=
 			</data>
 		</dict>
-		<key>Resources/app/scripts/preload.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			hPqNAVCYwnb1dLR/Fmkaa9qVB/w=
-			</data>
-			<key>hash2</key>
-			<data>
-			iVNLDe/9FXZLI9NdcMUFRxjd3Mbzw3qwEvNkYlcrQsg=
-			</data>
-		</dict>
-		<key>Resources/app/scripts/render.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			tLfYguaYwsiMLytv/+Wv/qLmGcs=
-			</data>
-			<key>hash2</key>
-			<data>
-			o6qFG7EDgir62WxHFa5QHyfLbk08yGlatRb7Tk2Jng0=
-			</data>
-		</dict>
-		<key>Resources/app/styles/_electron.scss</key>
+		<key>Resources/app/web/styles/_electron.scss</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -367,7 +446,7 @@
 			QRL6jm+PP3nHqvUy2cdvZHA1C8Yq+U+17kwpVEYnXcA=
 			</data>
 		</dict>
-		<key>Resources/app/styles/_normalize.scss</key>
+		<key>Resources/app/web/styles/_normalize.scss</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -378,7 +457,7 @@
 			uHu2MAd1LvCOVEAhvMld4LpJi7dUGS7GVzvG/5B3hlo=
 			</data>
 		</dict>
-		<key>Resources/app/styles/inbox.css</key>
+		<key>Resources/app/web/styles/inbox.css</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -389,7 +468,7 @@
 			xM4nC9gPnS57SwWhYMngiimEOYAZ6+bRCXMnvoWDaqg=
 			</data>
 		</dict>
-		<key>Resources/app/styles/style.css</key>
+		<key>Resources/app/web/styles/style.css</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -400,7 +479,7 @@
 			7OdzhkjBjeBz5FScFK4SB3n8yzjHqUX1mtvFuOgVUD8=
 			</data>
 		</dict>
-		<key>Resources/app/styles/style.scss</key>
+		<key>Resources/app/web/styles/style.scss</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -426,11 +505,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nXIKBJwzl47eae4NkvMHBfnUv0E=
+			utx8MXWPMS8tQlcn0gBaujkxZcg=
 			</data>
 			<key>hash2</key>
 			<data>
-			sgxpQxV8rHj0GLA3RHXTEjvETVVRTCfWDp9K+FEg5kY=
+			Bq0qvK5V4I4ANZLb9BZ3brF5PAYBSXPpWpt6fx3EkRw=
 			</data>
 		</dict>
 	</dict>
