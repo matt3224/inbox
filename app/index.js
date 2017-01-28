@@ -6,7 +6,7 @@ let win;
 let first = true;
 
 const {app, BrowserWindow} = require('electron');
-const {appUpdater, appUpdateCheck} = require('./autoupdater');
+const {appUpdater} = require('./autoupdater');
 
 const isDev = require('electron-is-dev');
 const path = require('path');

@@ -1,4 +1,5 @@
 const {app, Menu, shell} = require('electron');
+const {appUpdateCheck} = require('./autoupdater');
 
 module.exports = function() {
     const template = [

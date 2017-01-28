@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/app/.config.codekit3</key>
 		<data>
-		36sxITXkt2v5fSQDdVppznak9jo=
+		6zfaI4nKaxbW8RXAHliWEhn3ugk=
 		</data>
 		<key>Resources/app/.gitignore</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Resources/app/app/index.js</key>
 		<data>
-		kw+HT2NSzpHoPSfZ+Sy/WS/s/ys=
+		211LOGINfYo6fKoFYg7l9E1kfzM=
 		</data>
 		<key>Resources/app/app/menu.js</key>
 		<data>
-		jDpEykae/RHXrUzoBRXmgKNmKqw=
+		oE9+Q1cKrLRTOwLalQUXpjInOyc=
 		</data>
 		<key>Resources/app/node_modules/.DS_Store</key>
 		<data>
@@ -167,7 +167,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			f8Q1MGENmawkJZ8TKfvvXcKUBUA=
+			+v50wGjbAsjNrw9b26juQ5CkgJ4=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.electron.framework" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = DXS6TBA9N4</string>
@@ -221,7 +221,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			i5u9DA6iYpenM0YDqzM/UJ0qGOc=
+			xtzeUBsRtGW/SvqT1D4Mzmktrog=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.Squirrel" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = DXS6TBA9N4</string>
@@ -230,11 +230,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			36sxITXkt2v5fSQDdVppznak9jo=
+			6zfaI4nKaxbW8RXAHliWEhn3ugk=
 			</data>
 			<key>hash2</key>
 			<data>
-			wuMrr2hhNbADlqZbxV/fXhgwiknKyLq0/C0Ilolp/aU=
+			W7usGHPrFUibxcWb9i1AwU/8/g9O5uJlgG/te+mwiDE=
 			</data>
 		</dict>
 		<key>Resources/app/.gitignore</key>
@@ -274,22 +274,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kw+HT2NSzpHoPSfZ+Sy/WS/s/ys=
+			211LOGINfYo6fKoFYg7l9E1kfzM=
 			</data>
 			<key>hash2</key>
 			<data>
-			YlmdhTH3LCQUMbTm03Je4nDYXp4jr6WM4Z8MwfB3gKQ=
+			LsLnhxcXpKMNafN5dOGkHOCh0kd6XQFoHzKCr8zxXaQ=
 			</data>
 		</dict>
 		<key>Resources/app/app/menu.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jDpEykae/RHXrUzoBRXmgKNmKqw=
+			oE9+Q1cKrLRTOwLalQUXpjInOyc=
 			</data>
 			<key>hash2</key>
 			<data>
-			zujy725hAvZa8v8/yrp08ukoRspRe3FMKAuPOi6E5jw=
+			Y3C+r9iK8Jj1O1nFlMlPjVSbOMnz0tW99lipQCQh8nI=
 			</data>
 		</dict>
 		<key>Resources/app/node_modules/electron-is-dev/index.js</key>
