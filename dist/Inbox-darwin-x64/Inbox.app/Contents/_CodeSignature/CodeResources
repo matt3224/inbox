@@ -6,11 +6,11 @@
 	<dict>
 		<key>Resources/app/.DS_Store</key>
 		<data>
-		HhVO+WIHeXGJ6TTMCWK8658cnWI=
+		R1LS6p4yq9ZCwgstzeebc9TKcPs=
 		</data>
 		<key>Resources/app/.config.codekit3</key>
 		<data>
-		6zfaI4nKaxbW8RXAHliWEhn3ugk=
+		JTPtggYnEEUwW1EwFqphUAnyoMI=
 		</data>
 		<key>Resources/app/.gitignore</key>
 		<data>
@@ -36,18 +36,6 @@
 		<data>
 		oE9+Q1cKrLRTOwLalQUXpjInOyc=
 		</data>
-		<key>Resources/app/node_modules/.DS_Store</key>
-		<data>
-		Fr1usWnO/SEiiLwJmssS92qKOBM=
-		</data>
-		<key>Resources/app/node_modules/concat-stream/node_modules/.DS_Store</key>
-		<data>
-		FEDBeAHbt3faGr8Tafu7GLkUizg=
-		</data>
-		<key>Resources/app/node_modules/dashdash/node_modules/.DS_Store</key>
-		<data>
-		4tlqdgtwySXW7tQExa20+lERg5Y=
-		</data>
 		<key>Resources/app/node_modules/electron-is-dev/index.js</key>
 		<data>
 		CpxyLErWza1REY656YIxCmSPoVY=
@@ -58,35 +46,15 @@
 		</data>
 		<key>Resources/app/node_modules/electron-is-dev/package.json</key>
 		<data>
-		JYYI7nOpwhKISu28zCoV73m1MW8=
+		DQNCGU6FjacC2cp1ng1os7ha/nA=
 		</data>
 		<key>Resources/app/node_modules/electron-is-dev/readme.md</key>
 		<data>
 		7ckXN4/CZslkCDuTjqkI8Qrzo38=
 		</data>
-		<key>Resources/app/node_modules/extract-zip/node_modules/.DS_Store</key>
-		<data>
-		Kc6yUVvbRVGmAxwur1NUXIPQqN4=
-		</data>
-		<key>Resources/app/node_modules/getpass/node_modules/.DS_Store</key>
-		<data>
-		crtcUSALLaNkUl1GaQC03gkgQlw=
-		</data>
-		<key>Resources/app/node_modules/is-my-json-valid/node_modules/.DS_Store</key>
-		<data>
-		dtbiLc2SV433esjGlsE3WPrdIB8=
-		</data>
-		<key>Resources/app/node_modules/mkdirp/node_modules/.DS_Store</key>
-		<data>
-		x+PDcw1KF9tuh5/aOOYhdFe/DeE=
-		</data>
-		<key>Resources/app/node_modules/sshpk/node_modules/.DS_Store</key>
-		<data>
-		9tfFd9UkVtR75v7k4j4lehnRItU=
-		</data>
 		<key>Resources/app/package.json</key>
 		<data>
-		A/Wx+zhids5676BrwCelaLrSROY=
+		6GnP2BV3hSFCkGsSe1D2gbp8rTc=
 		</data>
 		<key>Resources/app/web/images/.DS_Store</key>
 		<data>
@@ -142,7 +110,7 @@
 		</data>
 		<key>Resources/app/web/styles/inbox.css</key>
 		<data>
-		cCkS6g5ta73YmjGqkzxsTSbGhFM=
+		8ApcmuQK5KqsiKUaT7SCBockRFY=
 		</data>
 		<key>Resources/app/web/styles/style.css</key>
 		<data>
@@ -167,7 +135,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			+v50wGjbAsjNrw9b26juQ5CkgJ4=
+			dtgLdao6V9n8lBVdYIbEE7zxiIY=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.electron.framework" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = DXS6TBA9N4</string>
@@ -221,7 +189,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			xtzeUBsRtGW/SvqT1D4Mzmktrog=
+			LRK7KxAqKQliT+oYa1XIk/lYB9E=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.Squirrel" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = DXS6TBA9N4</string>
@@ -230,11 +198,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6zfaI4nKaxbW8RXAHliWEhn3ugk=
+			JTPtggYnEEUwW1EwFqphUAnyoMI=
 			</data>
 			<key>hash2</key>
 			<data>
-			W7usGHPrFUibxcWb9i1AwU/8/g9O5uJlgG/te+mwiDE=
+			hBijAtP7p+ICutB7uOu8t5VwKlCguBRdTqWiZqXRvC8=
 			</data>
 		</dict>
 		<key>Resources/app/.gitignore</key>
@@ -318,11 +286,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JYYI7nOpwhKISu28zCoV73m1MW8=
+			DQNCGU6FjacC2cp1ng1os7ha/nA=
 			</data>
 			<key>hash2</key>
 			<data>
-			npMLNaIqblE96BP7SDWdtZjM29vXy2ZdZJKYtVmm34w=
+			+UPKhaFDb8hKHGWy6rPjuSCHDjgXCVNgByHMlCfH+Q0=
 			</data>
 		</dict>
 		<key>Resources/app/node_modules/electron-is-dev/readme.md</key>
@@ -340,11 +308,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			A/Wx+zhids5676BrwCelaLrSROY=
+			6GnP2BV3hSFCkGsSe1D2gbp8rTc=
 			</data>
 			<key>hash2</key>
 			<data>
-			OKWY9bqezob4KryAZChPsCA2B6IBZk38bFwt3wvJ1HU=
+			iKyabpdtfYKefIwNEpNu65bBwiOuCUdPo0ZGm7DHhlc=
 			</data>
 		</dict>
 		<key>Resources/app/web/images/app-icon.icns</key>
@@ -461,11 +429,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cCkS6g5ta73YmjGqkzxsTSbGhFM=
+			8ApcmuQK5KqsiKUaT7SCBockRFY=
 			</data>
 			<key>hash2</key>
 			<data>
-			xM4nC9gPnS57SwWhYMngiimEOYAZ6+bRCXMnvoWDaqg=
+			VoHvmsMvyOYMdPtcs2fS2nOvksmBvhCr3o59zfEcGog=
 			</data>
 		</dict>
 		<key>Resources/app/web/styles/style.css</key>

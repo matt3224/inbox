@@ -159,7 +159,9 @@ span.aO.AK.ew::before {
 .gb_Ib,
 .gb_Ie,
 .f1,
-.gb_Ie>.gb_R {
+.gb_Ie>.gb_R,
+.gb_Hf,
+.gb_Me>.gb_R {
     height: 38px !important;
 }
 
