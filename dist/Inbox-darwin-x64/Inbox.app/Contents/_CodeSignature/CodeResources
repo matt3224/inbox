@@ -135,7 +135,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			dtgLdao6V9n8lBVdYIbEE7zxiIY=
+			1aNwBSFLu/D2M9qvRz5HL+2nT8c=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.electron.framework" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = DXS6TBA9N4</string>
@@ -189,7 +189,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			LRK7KxAqKQliT+oYa1XIk/lYB9E=
+			3pzVd9P5q2I+CvKrsWP9CNFiDoA=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.Squirrel" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = DXS6TBA9N4</string>
