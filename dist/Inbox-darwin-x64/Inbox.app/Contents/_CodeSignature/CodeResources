@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/app/.config.codekit3</key>
 		<data>
-		JTPtggYnEEUwW1EwFqphUAnyoMI=
+		iTHay+nAV+wZ1gN55ElfslhSsrM=
 		</data>
 		<key>Resources/app/.gitignore</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Resources/app/package.json</key>
 		<data>
-		6GnP2BV3hSFCkGsSe1D2gbp8rTc=
+		Yw5CgYR+L7qTxZAR3qqqIJkrQfQ=
 		</data>
 		<key>Resources/app/web/images/.DS_Store</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>Resources/app/web/styles/inbox.css</key>
 		<data>
-		8ApcmuQK5KqsiKUaT7SCBockRFY=
+		xPLTo3aKBlBm06RBF5ZdAv9TpfE=
 		</data>
 		<key>Resources/app/web/styles/style.css</key>
 		<data>
@@ -135,7 +135,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			1aNwBSFLu/D2M9qvRz5HL+2nT8c=
+			cBMwOlZejjZUHZ7OoyvilPVUfTg=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.electron.framework" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = DXS6TBA9N4</string>
@@ -189,7 +189,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			3pzVd9P5q2I+CvKrsWP9CNFiDoA=
+			uKGDWLucDB3o1EQ6wjXokxTt8wY=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.Squirrel" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = DXS6TBA9N4</string>
@@ -198,11 +198,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JTPtggYnEEUwW1EwFqphUAnyoMI=
+			iTHay+nAV+wZ1gN55ElfslhSsrM=
 			</data>
 			<key>hash2</key>
 			<data>
-			hBijAtP7p+ICutB7uOu8t5VwKlCguBRdTqWiZqXRvC8=
+			/OIiUKHGOMTzB5BTapsI3FVZFltxkRZHnKikmgdSM48=
 			</data>
 		</dict>
 		<key>Resources/app/.gitignore</key>
@@ -308,11 +308,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6GnP2BV3hSFCkGsSe1D2gbp8rTc=
+			Yw5CgYR+L7qTxZAR3qqqIJkrQfQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			iKyabpdtfYKefIwNEpNu65bBwiOuCUdPo0ZGm7DHhlc=
+			CAggMllB29ddV8oNv/SAoEqQHOxskUh1EwEonp9ONUI=
 			</data>
 		</dict>
 		<key>Resources/app/web/images/app-icon.icns</key>
@@ -429,11 +429,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8ApcmuQK5KqsiKUaT7SCBockRFY=
+			xPLTo3aKBlBm06RBF5ZdAv9TpfE=
 			</data>
 			<key>hash2</key>
 			<data>
-			VoHvmsMvyOYMdPtcs2fS2nOvksmBvhCr3o59zfEcGog=
+			Im1OZhvC6vMQcB3CBIOKtPrRQUMpmLqvZxYSYa2elGM=
 			</data>
 		</dict>
 		<key>Resources/app/web/styles/style.css</key>

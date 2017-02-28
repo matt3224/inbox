@@ -75,8 +75,13 @@ span.aO.AK.ew::before {
     margin: 8px 0 0 5px !important;
 }
 
-.gb_Ce>.gb_R {
-    height: 42px !important;
+.gb_Ce > .gb_R,
+.gb_Sf > .gb_R,
+.gb_Se > .gb_R,
+.gb_Se  {
+    align-items: center;
+    display: flex;
+    height: 38px !important;
 }
 
 .te {

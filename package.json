@@ -1,6 +1,6 @@
 {
   "name": "Inbox",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "A powerful email client",
   "author": "Matt Pilott",
   "license": "MIT",
@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "electron": "^1.4.15",
-    "electron-packager": "^8.5.1"
+    "electron-packager": "^8.5.2"
   },
   "dependencies": {
     "electron-is-dev": "^0.1.2"
