@@ -6,11 +6,11 @@
 	<dict>
 		<key>Resources/app/.DS_Store</key>
 		<data>
-		R1LS6p4yq9ZCwgstzeebc9TKcPs=
+		dlrhO4jV39uJ3NcFxAUMVzo47ys=
 		</data>
 		<key>Resources/app/.config.codekit3</key>
 		<data>
-		iTHay+nAV+wZ1gN55ElfslhSsrM=
+		5863devRGJUe7FmEBaZhdq+cMCE=
 		</data>
 		<key>Resources/app/.gitignore</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Resources/app/package.json</key>
 		<data>
-		Yw5CgYR+L7qTxZAR3qqqIJkrQfQ=
+		Yp+qETGFN1LvekVZVJzsaAdNuyk=
 		</data>
 		<key>Resources/app/web/images/.DS_Store</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>Resources/app/web/styles/inbox.css</key>
 		<data>
-		xPLTo3aKBlBm06RBF5ZdAv9TpfE=
+		CI15bhmrJz8OkkLMq4Pw/sORnZM=
 		</data>
 		<key>Resources/app/web/styles/style.css</key>
 		<data>
@@ -122,7 +122,7 @@
 		</data>
 		<key>Resources/electron.asar</key>
 		<data>
-		S2s35JhAc/usbHlWDcPrM9ZIpTQ=
+		dgu5dGdcQr4PTEd3AmWeDFoGfew=
 		</data>
 		<key>Resources/electron.icns</key>
 		<data>
@@ -135,7 +135,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			cBMwOlZejjZUHZ7OoyvilPVUfTg=
+			vj2dnLAXp0SlU3RvFy/KHvsJl1Y=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.electron.framework" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = DXS6TBA9N4</string>
@@ -144,7 +144,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			svjliawzECpPcfxrSwxHuwkUKak=
+			yPPFaUUSVk+MGde6yq5yc1BWf9I=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.matt-pilott.inbox.helper.EH" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = DXS6TBA9N4</string>
@@ -153,7 +153,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			OV38t+aB/ftGbjAhp/USPpnjmH0=
+			6BGWntE7qGCGzdk+OHjV5YscM4Y=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.matt-pilott.inbox.helper.NP" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = DXS6TBA9N4</string>
@@ -162,7 +162,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			GoNY0UHXbTQVW9MmHsJlB8aKeCM=
+			wX3Im9+6i8VZXxUtEOF2cKssZbo=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.matt-pilott.inbox.helper" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = DXS6TBA9N4</string>
@@ -189,7 +189,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			uKGDWLucDB3o1EQ6wjXokxTt8wY=
+			q/vBUSbJktECkguvP96ZnqhFKso=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.Squirrel" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = DXS6TBA9N4</string>
@@ -198,11 +198,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iTHay+nAV+wZ1gN55ElfslhSsrM=
+			5863devRGJUe7FmEBaZhdq+cMCE=
 			</data>
 			<key>hash2</key>
 			<data>
-			/OIiUKHGOMTzB5BTapsI3FVZFltxkRZHnKikmgdSM48=
+			utbRxd1eChAUh1eYHHJeyqmPI13s5fUp4pP22VMuF5s=
 			</data>
 		</dict>
 		<key>Resources/app/.gitignore</key>
@@ -308,11 +308,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Yw5CgYR+L7qTxZAR3qqqIJkrQfQ=
+			Yp+qETGFN1LvekVZVJzsaAdNuyk=
 			</data>
 			<key>hash2</key>
 			<data>
-			CAggMllB29ddV8oNv/SAoEqQHOxskUh1EwEonp9ONUI=
+			HWJJVc3PLqcmW0Z4h3S5MhXJReHFI7EvvO4wXy0/l7g=
 			</data>
 		</dict>
 		<key>Resources/app/web/images/app-icon.icns</key>
@@ -429,11 +429,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xPLTo3aKBlBm06RBF5ZdAv9TpfE=
+			CI15bhmrJz8OkkLMq4Pw/sORnZM=
 			</data>
 			<key>hash2</key>
 			<data>
-			Im1OZhvC6vMQcB3CBIOKtPrRQUMpmLqvZxYSYa2elGM=
+			NNBOlHXF5pH6e90Q6U69I4Exai+gf5D6+BtltUYEYdQ=
 			</data>
 		</dict>
 		<key>Resources/app/web/styles/style.css</key>
@@ -462,11 +462,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			S2s35JhAc/usbHlWDcPrM9ZIpTQ=
+			dgu5dGdcQr4PTEd3AmWeDFoGfew=
 			</data>
 			<key>hash2</key>
 			<data>
-			yklSALDJLnUUQztw14hCTRxTTzzfurfO9B5NLLmEbr0=
+			9m9snKDx5rqNrYBH0qYNY6qXRZYBFKQMAnApZRz++jo=
 			</data>
 		</dict>
 		<key>Resources/electron.icns</key>
