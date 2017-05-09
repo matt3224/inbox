@@ -167,8 +167,9 @@ span.aO.AK.ew::before {
 .gb_Ie>.gb_R,
 .gb_Hf,
 .gb_Me>.gb_R,
-.gb_bf>.gb_R {
-    height: 38px !important;
+.gb_bf>.gb_R,
+#gb div {
+    max-height: 38px !important;
 }
 
 #lQGP9e {

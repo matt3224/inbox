@@ -8,7 +8,6 @@ let first = true;
 const {app, BrowserWindow} = require('electron');
 const {appUpdater} = require('./autoupdater');
 
-const isDev = require('electron-is-dev');
 const path = require('path');
 const fs = require('fs');
 
@@ -58,10 +57,6 @@ function createWindow() {
         
         win = null;
     });
-    
-    if (!isDev && first) {
-        appUpdater();
-    }
     
     first = false;
     
