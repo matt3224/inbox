@@ -168,8 +168,12 @@ span.aO.AK.ew::before {
 .gb_Hf,
 .gb_Me>.gb_R,
 .gb_bf>.gb_R,
-#gb div {
+#gb div:not([aria-label="Account Information"]) {
     max-height: 38px !important;
+}
+
+#gb [aria-label="Account Information"] div {
+    max-height: none !important;
 }
 
 #lQGP9e {
@@ -203,5 +207,4 @@ span.aO.AK.ew::before {
     left: 4rem !important;
     width: calc(100% - 3rem) !important;
 }
-
 
