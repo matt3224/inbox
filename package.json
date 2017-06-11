@@ -10,7 +10,7 @@
     "package": "electron-packager ./ Inbox --overwrite --icon=./web/images/app-icon.icns --out=./dist --platform=darwin --arch=x64 --app-bundle-id=com.matt-pilott.inbox --osx-sign"
   },
   "devDependencies": {
-    "electron": "^1.6.8",
-    "electron-packager": "^8.7.0"
+    "electron": "^1.6.10",
+    "electron-packager": "^8.7.1"
   }
 }
