@@ -2,6 +2,10 @@
 # yarn lockfile v1
 
 
+"@types/node@^8.0.24":
+  version "8.0.28"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-8.0.28.tgz#86206716f8d9251cf41692e384264cbd7058ad60"
+
 abbrev@1:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.0.tgz#d0554c2256636e2f56e7c2e5ad183f859428d81f"
@@ -276,9 +280,9 @@ electron-osx-sign@^0.4.1:
     plist "^2.0.1"
     tempfile "^1.1.1"
 
-electron-packager@^8.7.0:
-  version "8.7.0"
-  resolved "https://registry.yarnpkg.com/electron-packager/-/electron-packager-8.7.0.tgz#3a2b82219f0046b48130ccfc26764f149de7b9d2"
+electron-packager@^8.7.2:
+  version "8.7.2"
+  resolved "https://registry.yarnpkg.com/electron-packager/-/electron-packager-8.7.2.tgz#457d3bf24bc9607c06ad4b1eb6daa4accadc2108"
   dependencies:
     asar "^0.13.0"
     debug "^2.2.0"
@@ -295,10 +299,11 @@ electron-packager@^8.7.0:
     sanitize-filename "^1.6.0"
     semver "^5.3.0"
 
-electron@^1.6.8:
-  version "1.6.8"
-  resolved "https://registry.yarnpkg.com/electron/-/electron-1.6.8.tgz#41cbbe7272ccd93339c040f856c0d6372a4ddb07"
+electron@^1.7.5:
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/electron/-/electron-1.8.0.tgz#896f429b1e664f496f62b9cc7ee6a67a71375f31"
   dependencies:
+    "@types/node" "^8.0.24"
     electron-download "^3.0.1"
     extract-zip "^1.0.3"
 

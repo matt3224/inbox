@@ -27,6 +27,10 @@ body,
     top: 38px !important;
 }
 
+#gb > div > div {
+    padding-right: 1rem !important;
+}
+
 .an {
     background: rgba(255, 255, 255, 0.8) !important;
 }
@@ -97,7 +101,8 @@ span.aO.AK.ew::before {
     }
 }
 
-.hn.b4 {
+.hn.b4,
+[jsaction="search.scroll_to_top"] {
     -webkit-app-region: drag;
     -webkit-user-select: none;
 }
@@ -182,6 +187,10 @@ span.aO.AK.ew::before {
 
 .f1 {
     top: 0 !important;
+}
+
+[aria-label="Change profile picture."] {
+    max-height: none !important;
 }
 
 @media (max-width: 920px) {
